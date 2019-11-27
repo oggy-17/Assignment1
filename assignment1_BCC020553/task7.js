@@ -1,0 +1,16 @@
+var newLine = "<br>";
+document.write("a.  " + "A heading stating 'Rules for naming JS variables' " );
+document.write(newLine);
+document.write("b.  " + "Variables name can only contain ________ , ________");
+document.write(newLine);
+document.write("c.  " + "________ and _______ .");
+document.write(newLine);
+document.write("d.  " + "For example $my_1stVariable.");
+document.write(newLine);
+document.write("e.  " + "Variables must begin with a _______ , ________ or");
+document.write(newLine);
+document.write("f.  " + "_______ . For example $name, _name or name");
+document.write(newLine);
+document.write("g.  " + "Variable names are case _________ ");
+document.write(newLine);
+document.write("h.  " + "Variable names should not be JS _____________");  
